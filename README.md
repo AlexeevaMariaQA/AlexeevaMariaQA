@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **AlexeevaMariaQA/AlexeevaMariaQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

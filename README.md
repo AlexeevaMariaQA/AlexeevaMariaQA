@@ -8,7 +8,7 @@
 
 ---
 
- 📫 Как связаться со мной
+### 📫 Как связаться со мной
   <div id="badges">
     <a href="https://t.me/mashamadein_russia" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram">

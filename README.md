@@ -63,12 +63,12 @@
   - чек-лист, тест-кейсы, баг репорты для тестирования модулей Оплата и Корзина веб-приложения Интернет магазин
 </li>
 <li>
-   <a href="https://github.com/AlexeevaMariaQA/API">Тестирование API</a>
-  - REST и SOAP в Postman
+   <a href="https://github.com/AlexeevaMariaQA/API">REST и SOAP в Postman</a>
+  - тестирование API
 </li>
 <li>
-<a href="https://github.com/AlexeevaMariaQA/Database">Работа с базами данных</a>
-- запросы в MySqL и MongoDB
+<a href="https://github.com/AlexeevaMariaQA/Database">MySqL и MongoDB</a>
+- работа с базами данных
 </li>
 <li>
   <a href="https://github.com/AlexeevaMariaQA/Mobile">Тестирование мобильного приложения</a>

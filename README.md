@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик. Основной домен - тестирование веб-приложений (front + back). 
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maralex14060@gmail.com)[Telegram bage](https://cdn-icons-png.flaticon.com/512/2111/2111646.png width="40" height="40" alt="telegram")(https://t.me/mashamadein_russia" target="_blank)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maralex14060@gmail.com)
   <div id="badges">
     <a href="https://t.me/mashamadein_russia" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />

@@ -1,13 +1,13 @@
 # Привет, меня зовут Мария!
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1APTpxfOOrVeqJhHz5nO6z-2ogWE-fe5a/view">
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1APTpxfOOrVeqJhHz5nO6z-2ogWE-fe5a" width="300" alt="QA testing gif" style="max-width: 100%;">
+</a>
 
----
 
 ### 👨‍💻 Обо мне:
 
 Я начинающий тестировщик. Основной домен - тестирование веб-приложений (front + back). <img src="https://camo.githubusercontent.com/c9238823df751d0e40a2645daf17c778544acc64f75a20569d7123392f3ad053/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3336332f6c6164792d626565746c655f31663431652e706e67" height="23" alt="ladybug" data-canonical-src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" style="max-width: 100%; height: auto; max-height: 23px;">
-Здесь собраны мои работы по тестированию веб и мобильных приложений, созданные в процессе обучения и в личных проектах. <a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1APTpxfOOrVeqJhHz5nO6z-2ogWE-fe5a/view">
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1APTpxfOOrVeqJhHz5nO6z-2ogWE-fe5a" width="300" alt="QA testing gif" style="max-width: 100%;">
-</a>
+Здесь собраны мои работы по тестированию веб и мобильных приложений, созданные в процессе обучения и в личных проектах. 
 
 ---
 
